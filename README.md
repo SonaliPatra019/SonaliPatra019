@@ -3,11 +3,11 @@
 Welcome to my little corner of GitHub!  
 I'm passionate about building cool stuff, learning new technologies, and sharing what I discover along the way.
 
-Here’s what you’ll find here:
+🚀 What You’ll Find Here
 
-- 🔧 Projects I'm currently working on or contributing to
-- 📚 Insights from my learning journey—tech tips, resources, and debugging wins
-- 🌱 Notes on personal and professional growth (because we're all figuring it out)
+- 🎓 Simple projects that reflect my learning and growth as a student.
+- 🛠️ Hands-on builds where I enjoy trying new things and improving.
+- 📌 A collection of small wins and progress on my coding journey.
 
 ### 🛠️ Tech Stack
 
